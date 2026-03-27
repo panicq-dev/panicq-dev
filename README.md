@@ -54,8 +54,6 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=panicq-dev&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=ffffff" />
-
 </div>
 
 <hr/>
