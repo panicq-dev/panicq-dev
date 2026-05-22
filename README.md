@@ -38,13 +38,13 @@ Fora da tecnologia, estou quase sempre assistindo séries, jogando ou descobrind
 
 <br>
 
-<a href="https://github.com/panicq-dev/meu-portfólio">
+<a href="https://github.com/panicq-dev/meu-portfolio">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle">
 </a> Um pouco do meu portfólio, onde apliquei meus conhecimentos de Front-End.
 
 <br>
 
-<a href="https://github.com/panicq-dev/task-manager">
+<a href="https://github.com/panicq-dev/task-manager-csharp">
   <img src="https://img.shields.io/badge/Task--Manager-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle">
 </a> Aplicação console CRUD feita com C# e .NET para gerenciamento de tarefas pelo terminal.
   
