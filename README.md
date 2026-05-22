@@ -32,7 +32,7 @@ Fora da tecnologia, estou quase sempre assistindo séries, jogando ou descobrind
   
 <h3>Meus projetos</h3>
 
-<a href="https://github.com/panicq-dev/front-apresentation-jovi">
+<a href="https://github.com/Roberto-Dantas/Sprint-2-Front-end_Design-1ESPV-2026">
   <img src="https://img.shields.io/badge/Apresentation-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle">
 </a> Uma aplicação web para apresentar um projeto futuro que eu e minha equipe estamos desenvolvendo.
 
