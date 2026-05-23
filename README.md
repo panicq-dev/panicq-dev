@@ -1,5 +1,5 @@
 <a href="https://github.com/panicq-dev">
-<img width="100%" alt="panicq" src="https://github.com/user-attachments/assets/12714596-8e8e-4700-9c23-a5aca9923b3c" />
+<img width="100%" alt="panicq" src="https://i.postimg.cc/mkJGPJG6/banner-panic-(1).png"/>
 </a>
 
 <div align="center">
@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <img width="1637" height="93" alt="{0A1999CC-20DD-4CC0-94F2-C79FD782062D}" src="https://github.com/user-attachments/assets/bf8feb2e-2cb3-4725-aee9-8510e7d94673" />
+  <img width="1637" height="93" alt="{0A1999CC-20DD-4CC0-94F2-C79FD782062D}" src="https://i.postimg.cc/HWXGzZH2/about.png" />
 </div>
 
 <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
@@ -76,7 +76,7 @@ Fora da tecnologia, estou quase sempre assistindo séries, jogando ou descobrind
 <br>
 
 <div align="center">
-<img width="2928" height="121" alt="status" src="https://github.com/user-attachments/assets/597d1826-65ff-45d8-8937-741b1c2b50e1" />
+<img width="2928" height="121" alt="status" src="https://i.postimg.cc/RF2PKBNv/status.png" />
   <div align="center">
     <br>
   <img src="https://streak-stats.demolab.com?user=panicq-dev&theme=dark&hide_border=true&currStreakLabel=ffffff&fire=ffffff&ring=ffffff" />
@@ -88,7 +88,8 @@ Fora da tecnologia, estou quase sempre assistindo séries, jogando ou descobrind
 
 <div align="center">
 
-## <img width="1643" height="95" alt="{64E13DDD-1188-485D-A167-2FF2F7B7F749}" src="https://github.com/user-attachments/assets/322d1265-6780-4c7e-af89-92638108b06c" />
+
+## <img width="1643" height="95" alt="{64E13DDD-1188-485D-A167-2FF2F7B7F749}" src="https://i.postimg.cc/pTK0fS8Z/tech-panic.png" />
 
 <table>
   <tr>
