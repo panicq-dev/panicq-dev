@@ -32,7 +32,7 @@ Fora da tecnologia, estou quase sempre assistindo séries, jogando ou descobrind
   
 <h3>Meus projetos</h3>
 
-<a href="https://github.com/Roberto-Dantas/Sprint-2-Front-end_Design-1ESPV-2026">
+<a href="https://github.com/panicq-dev/challenge-study-app-jovi">
   <img src="https://img.shields.io/badge/StudyApp-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle">
 </a> Aplicativo mobile desenvolvido para transformar fotos de documentos capturados diretamente pela câmera do celular em flashcards, resumos e exercícios personalizados. Tudo organizado por pastas e máterias, sem nenhum esforço manual do usuário. Utilização de Kotlin, JetpackCompose, Ktor, CameraX e demais.
 
