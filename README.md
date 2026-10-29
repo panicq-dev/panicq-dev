@@ -1,7 +1,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b21a8&height=120&section=header" alt="header"/>
 
-<h1> Gabriel Almeida, Software Engineer </h1>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4500&pause=1500&color=9E7BFF&center=false&vCenter=true&width=650&height=50&lines=Gabriel+Almeida+-+Software+Engineer" alt="Typing SVG" />
+</p>
 
 <div>
     <img src="./assets/gabriel-about-me.gif" alt="About Me"/>
