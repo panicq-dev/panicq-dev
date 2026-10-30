@@ -9,22 +9,21 @@
     <img src="./assets/gabriel-about-me.gif" alt="About Me"/>
 </div>
 
-### Main skills
+### Habilidades principais
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,github,git,mysql,eclipse,java,spring,js,html,css,bootstrap,notion)](https://skillicons.dev)
 
-### Studying
+### Estudando no momento...
 [![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-### Current Projects
+### Projetos mais recentes
 > [!IMPORTANT] 
-> Check out some of the main projects I am currently developing:
+> Veja alguns dos projetos que realizei recentemente!
 
-- **[Desafio Itaú](https://github.com/panicq-dev/desafio-itau)** — Developing a C# Web API accompanied by a dedicated unit testing project using **xUnit** (`xUnitDesafioItau`).
-- **[Desafio PicPay](https://github.com/panicq-dev/picpay-challenge)** — Implementing services and business rules inspired by transaction and digital wallet challenges.
-- **[Auth Service](https://github.com/panicq-dev/auth-api)** — Building a robust solution focused on authentication, authorization, and endpoint security.
+- **[Desafio Itaú](https://github.com/panicq-dev/desafio-itau)** — Desenvolvimento de uma Web API em C#, acompanho de testes unitários dedicado ao projeto utilizando **xUnit** (`xUnitDesafioItau`).
+- **[Desafio PicPay](https://github.com/panicq-dev/picpay-challenge)** — Implementação de serviços e regras de negócio para construção de um sistema de transação bancária, utilizando conceitos de Web Api, testes unitários com xUnit, Mock e Docker.
+- **[Auth Service](https://github.com/panicq-dev/auth-api)** — Construção de uma robusta solução focada em autenticação, autorização e endpoint de segurança.
 
-
-### Connect with me!
+### Fale comigo!
 
 <div style="display: flex; gap: 12px; align-items: center;">
     <a href="https://www.linkedin.com/in/gabriel-almeida-dos-santos-25421838b/">
@@ -38,8 +37,8 @@
      Oh, recruiters!
 -->
 
-### Employer?
+### Recrutador?
 > [!NOTE]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="https://#/drive/folders/#?#" download>Baixe meu currículo</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b21a8&height=120&section=footer" alt="footer"/>
